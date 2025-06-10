@@ -2,7 +2,7 @@
 import * as React from "react";
 import { Navigation } from "./Navigation";
 import { Hero } from "./Hero";
-import About from "./about";
+import About from "./About";
 import { Services } from "./Services";
 import { Contact } from "./Contact";
 import { Footer } from "./Footer";
